@@ -27,6 +27,8 @@ Because sometimes **theory gets boring**. I wanted to make sorting algorithms **
 
 ---
 
+Screenshots:
+
 
 🚧 Future Improvements
 Add Heap Sort & Radix Sort
@@ -36,6 +38,8 @@ Sound effects (👂 why not?)
 Dark mode toggle 🌗
 
 Step-by-step explanations for each algorithm
+
+
 
 “Sorting out life one algorithm at a time.”
 
